@@ -66,3 +66,6 @@ Y un después:
 
 ![después](https://i.ibb.co/Z2byK9g/Captura-de-pantalla-2019-06-04-a-la-s-23-20-22.png)
 
+Al final de esta etapa elaboramos un User Persona para identificar al usuario especifico al que nos estamos dirigiendo:
+
+![User Persona](https://i.ibb.co/2SBLC74/Captura-de-pantalla-2019-06-04-a-la-s-23-37-10.png)
