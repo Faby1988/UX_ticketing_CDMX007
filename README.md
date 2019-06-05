@@ -33,3 +33,36 @@ Como parte del reto, Ticketmaster nos ha pedido que hagamos lo siguiente:
   dependiendo de los problemas que identifiques, puedes elegir uno o varios de ellos para re-diseñar
 - Crear y testear el flujo de la plataforma
 - Presentar dos propuestas de diseño para ese flujo
+
+
+# Proyecto
+
+Para realizar este proyecto se decidio aplicar la Metodología del Doble Diamante.
+
+![Doble Diamante](https://cdn-images-1.medium.com/max/1200/1*SMzrCmeHFigBD9zwXcWDrQ.jpeg)
+
+## Fase de Investigación (Descubrir)
+
+Conforme al reto que se nos ha asignado realizamos una investigación acerca de lo que otras plataformas de venta de boletos ofrecen a través de un Benchmark
+
+![Benchmark](https://i.ibb.co/64bfhC0/Captura-de-pantalla-2019-06-04-a-la-s-22-57-53.png)
+
+Para obtener información más puntual del servicio de Ticketmaster se realizarón 5 encuestas a profundidad y una encuesta genereal que realizarón 20 personas, acerca del servicio de las plataformas que realizan la venta de boletos para eventos.
+Con esta información pudimos obtener un Empaty Map:
+
+![Empaty map](https://i.ibb.co/vB3xD9S/Captura-de-pantalla-2019-06-04-a-la-s-23-09-37.png)
+
+De esta manera pudimos elaborar un Journey map para comprender a mayor profundidad cuales eran los touchpoints dentro del  recorrido de la compra. 
+
+Se elaboro un Antes:
+
+![antes](https://i.ibb.co/y4Kc0pQ/Captura-de-pantalla-2019-06-04-a-la-s-23-19-36.png)
+
+Un durante:
+
+![durante](https://i.ibb.co/4Wpqq3C/Captura-de-pantalla-2019-06-04-a-la-s-23-20-03.png)
+
+Y un después:
+
+![después](https://i.ibb.co/Z2byK9g/Captura-de-pantalla-2019-06-04-a-la-s-23-20-22.png)
+
