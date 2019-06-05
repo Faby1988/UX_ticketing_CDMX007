@@ -69,3 +69,15 @@ Y un después:
 Al final de esta etapa elaboramos un User Persona para identificar al usuario especifico al que nos estamos dirigiendo:
 
 ![User Persona](https://i.ibb.co/2SBLC74/Captura-de-pantalla-2019-06-04-a-la-s-23-37-10.png)
+
+Lo que encontramos como problemas al final de esta etapa es lo siguiente:
+
+* Que no exista una modalidad para tener los boletos de forma digital
+
+* Fallo de sistema de compra en preventa
+
+* El titular de la tarjeta debe recoger los boletos
+
+* Cobro de comisiones
+
+
